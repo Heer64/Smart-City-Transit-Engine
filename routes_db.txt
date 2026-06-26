@@ -1,0 +1,3 @@
+reliance road|gandhinagar|5|20|0|0
+highway-1|gandhinagar|5|20|0|0
+highway2|gandhinagar|5|20|23.2233|72.6492
